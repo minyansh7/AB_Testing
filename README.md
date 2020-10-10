@@ -5,9 +5,11 @@ Case 1: Mobile Games AB testing
 
 Data Source: cookie_cats.csv
 
+
 Case 2: Rideshare Product Feature AB testing
 
 Data Source: test.xlsx,city.xlsx
+
 
 Case 3: Udacity: DS track Experiment design 
 
