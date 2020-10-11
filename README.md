@@ -28,3 +28,5 @@ Python Notebook: L2_2Experiment_Size_Udacity_Experiment Design.ipynb
 3.3 Non-Parametetric Tests: Boostrapping and Permutation
 
 Python Notebook: L2_3Non-Parametric_Tests_Part_1.ipynb
+
+Data Source: boostrapping_data.csv, permutation_data.csv
