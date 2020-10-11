@@ -30,3 +30,9 @@ Python Notebook: L2_2Experiment_Size_Udacity_Experiment Design.ipynb
 Python Notebook: L2_3Non-Parametric_Tests_Part_1.ipynb
 
 Data Source: boostrapping_data.csv, permutation_data.csv
+
+3.4 Non-Parametetric Tests: Rank-Sum test and Sign test
+
+Python Notebook: L2_3Non-Parametric_Tests_Part_2.ipynb
+
+Data Source: permutation_data.csv, signtest_data.csv
